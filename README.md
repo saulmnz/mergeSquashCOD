@@ -1,7 +1,7 @@
 
 ## COMMITS Y COMANDOS EN LA "MASTER/MAIN"
 
-### 1ER commit main/master
+### 1ER COMMIT
 ```bash
 "LE AÑADIMOS CONTENIDO AL README"
 
@@ -10,7 +10,7 @@ git commit -m "Primer Commit"
 ```
 
 
-# 2dO commit main/master
+### 2DO COMMIT MASTER
 ```bash
 "LE AÑADIMOS CONTENIDO AL README"
 
